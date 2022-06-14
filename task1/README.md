@@ -1,0 +1,2 @@
+Simple Top Down Game with three levels. The goal is to reach the flag. Map is randomly generated. 
+Map can be edited by pressing key 'E' and dragging tiles with a mouse. Game is created using Processing. 

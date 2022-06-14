@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="265.0" prefWidth="356.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab_2_javafx.first_window_controller">
+   <children>
+      <Label layoutX="24.0" layoutY="34.0" text="Pageidaujama suma:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="wanted_sum_field" layoutX="182.0" layoutY="32.0" />
+      <Label layoutX="24.0" layoutY="77.0" text="Metai:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="year_field" layoutX="80.0" layoutY="75.0" prefHeight="25.0" prefWidth="68.0" />
+      <Label layoutX="159.0" layoutY="77.0" text="Mėnesis:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="month_choice" layoutX="239.0" layoutY="75.0" prefHeight="25.0" prefWidth="92.0" />
+      <Label layoutX="24.0" layoutY="121.0" text="Grąžinimo grafikas:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="graph_choice" layoutX="173.0" layoutY="119.0" prefHeight="25.0" prefWidth="158.0" />
+      <Label layoutX="25.0" layoutY="164.0" text="Metinis procentas:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="percentage_field" layoutX="167.0" layoutY="162.0" prefHeight="25.0" prefWidth="68.0" />
+      <Button fx:id="calculate_button" layoutX="24.0" layoutY="208.0" mnemonicParsing="false" onAction="#calculate_button" prefHeight="25.0" prefWidth="308.0" text="Skaičiuoti" />
+   </children>
+</Pane>

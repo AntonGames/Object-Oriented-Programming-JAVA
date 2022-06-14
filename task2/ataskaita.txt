@@ -1,0 +1,662 @@
+Paskola bus mokama 94 mėnesių.
+
+Kiekvieno mėnesio ataskaita: 
+
+Mėnesio nr: 1
+Likusi suma: 10000.0
+Kreditas: 35.04
+Palūkanos: 208.33
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 2
+Likusi suma: 9964.96
+Kreditas: 35.77
+Palūkanos: 207.6
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 3
+Likusi suma: 9929.19
+Kreditas: 36.51
+Palūkanos: 206.86
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 4
+Likusi suma: 9892.68
+Kreditas: 37.27
+Palūkanos: 206.1
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 5
+Likusi suma: 9855.41
+Kreditas: 38.05
+Palūkanos: 205.32
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 6
+Likusi suma: 9817.36
+Kreditas: 38.84
+Palūkanos: 204.53
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 7
+Likusi suma: 9778.52
+Kreditas: 39.65
+Palūkanos: 203.72
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 8
+Likusi suma: 9738.87
+Kreditas: 40.48
+Palūkanos: 202.89
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 9
+Likusi suma: 9698.39
+Kreditas: 41.32
+Palūkanos: 202.05
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 10
+Likusi suma: 9657.07
+Kreditas: 42.18
+Palūkanos: 201.19
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 11
+Likusi suma: 9614.89
+Kreditas: 43.06
+Palūkanos: 200.31
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 12
+Likusi suma: 9571.83
+Kreditas: 43.96
+Palūkanos: 199.41
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 13
+Likusi suma: 9527.87
+Kreditas: 44.87
+Palūkanos: 198.5
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 14
+Likusi suma: 9483.0
+Kreditas: 45.81
+Palūkanos: 197.56
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 15
+Likusi suma: 9437.19
+Kreditas: 46.76
+Palūkanos: 196.61
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 16
+Likusi suma: 9390.43
+Kreditas: 47.74
+Palūkanos: 195.63
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 17
+Likusi suma: 9342.69
+Kreditas: 48.73
+Palūkanos: 194.64
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 18
+Likusi suma: 9293.96
+Kreditas: 49.75
+Palūkanos: 193.62
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 19
+Likusi suma: 9244.21
+Kreditas: 50.78
+Palūkanos: 192.59
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 20
+Likusi suma: 9193.43
+Kreditas: 51.84
+Palūkanos: 191.53
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 21
+Likusi suma: 9141.59
+Kreditas: 52.92
+Palūkanos: 190.45
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 22
+Likusi suma: 9088.67
+Kreditas: 54.02
+Palūkanos: 189.35
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 23
+Likusi suma: 9034.65
+Kreditas: 55.15
+Palūkanos: 188.22
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 24
+Likusi suma: 8979.5
+Kreditas: 56.3
+Palūkanos: 187.07
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 25
+Likusi suma: 8923.2
+Kreditas: 57.47
+Palūkanos: 185.9
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 26
+Likusi suma: 8865.73
+Kreditas: 58.67
+Palūkanos: 184.7
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 27
+Likusi suma: 8807.06
+Kreditas: 59.89
+Palūkanos: 183.48
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 28
+Likusi suma: 8747.17
+Kreditas: 61.14
+Palūkanos: 182.23
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 29
+Likusi suma: 8686.03
+Kreditas: 62.41
+Palūkanos: 180.96
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 30
+Likusi suma: 8623.62
+Kreditas: 63.71
+Palūkanos: 179.66
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 31
+Likusi suma: 8559.91
+Kreditas: 65.04
+Palūkanos: 178.33
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 32
+Likusi suma: 8494.87
+Kreditas: 66.39
+Palūkanos: 176.98
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 33
+Likusi suma: 8428.48
+Kreditas: 67.78
+Palūkanos: 175.59
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 34
+Likusi suma: 8360.7
+Kreditas: 69.19
+Palūkanos: 174.18
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 35
+Likusi suma: 8291.51
+Kreditas: 70.63
+Palūkanos: 172.74
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 36
+Likusi suma: 8220.88
+Kreditas: 72.1
+Palūkanos: 171.27
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 37
+Likusi suma: 8148.78
+Kreditas: 73.6
+Palūkanos: 169.77
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 38
+Likusi suma: 8075.18
+Kreditas: 75.14
+Palūkanos: 168.23
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 39
+Likusi suma: 8000.04
+Kreditas: 76.7
+Palūkanos: 166.67
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 40
+Likusi suma: 7923.34
+Kreditas: 78.3
+Palūkanos: 165.07
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 41
+Likusi suma: 7845.04
+Kreditas: 79.93
+Palūkanos: 163.44
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 42
+Likusi suma: 7765.11
+Kreditas: 81.6
+Palūkanos: 161.77
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 43
+Likusi suma: 7683.51
+Kreditas: 83.3
+Palūkanos: 160.07
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 44
+Likusi suma: 7600.21
+Kreditas: 85.03
+Palūkanos: 158.34
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 45
+Likusi suma: 7515.18
+Kreditas: 86.8
+Palūkanos: 156.57
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 46
+Likusi suma: 7428.38
+Kreditas: 88.61
+Palūkanos: 154.76
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 47
+Likusi suma: 7339.77
+Kreditas: 90.46
+Palūkanos: 152.91
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 48
+Likusi suma: 7249.31
+Kreditas: 92.34
+Palūkanos: 151.03
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 49
+Likusi suma: 7156.97
+Kreditas: 94.27
+Palūkanos: 149.1
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 50
+Likusi suma: 7062.7
+Kreditas: 96.23
+Palūkanos: 147.14
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 51
+Likusi suma: 6966.47
+Kreditas: 98.24
+Palūkanos: 145.13
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 52
+Likusi suma: 6868.23
+Kreditas: 100.28
+Palūkanos: 143.09
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 53
+Likusi suma: 6767.95
+Kreditas: 102.37
+Palūkanos: 141.0
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 54
+Likusi suma: 6665.58
+Kreditas: 104.5
+Palūkanos: 138.87
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 55
+Likusi suma: 6561.08
+Kreditas: 106.68
+Palūkanos: 136.69
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 56
+Likusi suma: 6454.4
+Kreditas: 108.9
+Palūkanos: 134.47
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 57
+Likusi suma: 6345.5
+Kreditas: 111.17
+Palūkanos: 132.2
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 58
+Likusi suma: 6234.33
+Kreditas: 113.49
+Palūkanos: 129.88
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 59
+Likusi suma: 6120.84
+Kreditas: 115.85
+Palūkanos: 127.52
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 60
+Likusi suma: 6004.99
+Kreditas: 118.27
+Palūkanos: 125.1
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 61
+Likusi suma: 5886.72
+Kreditas: 120.73
+Palūkanos: 122.64
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 62
+Likusi suma: 5765.99
+Kreditas: 123.25
+Palūkanos: 120.12
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 63
+Likusi suma: 5642.74
+Kreditas: 125.81
+Palūkanos: 117.56
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 64
+Likusi suma: 5516.93
+Kreditas: 128.43
+Palūkanos: 114.94
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 65
+Likusi suma: 5388.5
+Kreditas: 131.11
+Palūkanos: 112.26
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 66
+Likusi suma: 5257.39
+Kreditas: 133.84
+Palūkanos: 109.53
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 67
+Likusi suma: 5123.55
+Kreditas: 136.63
+Palūkanos: 106.74
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 68
+Likusi suma: 4986.92
+Kreditas: 139.48
+Palūkanos: 103.89
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 69
+Likusi suma: 4847.44
+Kreditas: 142.38
+Palūkanos: 100.99
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 70
+Likusi suma: 4705.06
+Kreditas: 145.35
+Palūkanos: 98.02
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 71
+Likusi suma: 4559.71
+Kreditas: 148.38
+Palūkanos: 94.99
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 72
+Likusi suma: 4411.33
+Kreditas: 151.47
+Palūkanos: 91.9
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 73
+Likusi suma: 4259.86
+Kreditas: 154.62
+Palūkanos: 88.75
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 74
+Likusi suma: 4105.24
+Kreditas: 157.84
+Palūkanos: 85.53
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 75
+Likusi suma: 3947.4
+Kreditas: 161.13
+Palūkanos: 82.24
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 76
+Likusi suma: 3786.27
+Kreditas: 164.49
+Palūkanos: 78.88
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 77
+Likusi suma: 3621.78
+Kreditas: 167.92
+Palūkanos: 75.45
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 78
+Likusi suma: 3453.86
+Kreditas: 171.41
+Palūkanos: 71.96
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 79
+Likusi suma: 3282.45
+Kreditas: 174.99
+Palūkanos: 68.38
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 80
+Likusi suma: 3107.46
+Kreditas: 178.63
+Palūkanos: 64.74
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 81
+Likusi suma: 2928.83
+Kreditas: 182.35
+Palūkanos: 61.02
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 82
+Likusi suma: 2746.48
+Kreditas: 186.15
+Palūkanos: 57.22
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 83
+Likusi suma: 2560.33
+Kreditas: 190.03
+Palūkanos: 53.34
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 84
+Likusi suma: 2370.3
+Kreditas: 193.99
+Palūkanos: 49.38
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 85
+Likusi suma: 2176.31
+Kreditas: 198.03
+Palūkanos: 45.34
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 86
+Likusi suma: 1978.28
+Kreditas: 202.16
+Palūkanos: 41.21
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 87
+Likusi suma: 1776.12
+Kreditas: 206.37
+Palūkanos: 37.0
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 88
+Likusi suma: 1569.75
+Kreditas: 210.67
+Palūkanos: 32.7
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 89
+Likusi suma: 1359.08
+Kreditas: 215.06
+Palūkanos: 28.31
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 90
+Likusi suma: 1144.02
+Kreditas: 219.54
+Palūkanos: 23.83
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 91
+Likusi suma: 924.48
+Kreditas: 224.11
+Palūkanos: 19.26
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 92
+Likusi suma: 700.37
+Kreditas: 228.78
+Palūkanos: 14.59
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 93
+Likusi suma: 471.59
+Kreditas: 233.55
+Palūkanos: 9.82
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+
+Mėnesio nr: 94
+Likusi suma: 238.04
+Kreditas: 238.41
+Palūkanos: 4.96
+Bendra mėnesio įmoka: 243.37
+///////////////////////////////////////////////
+

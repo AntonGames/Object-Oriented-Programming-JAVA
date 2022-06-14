@@ -1,0 +1,49 @@
+pvz 1
+
+while(!colliding_down())
+
+go_down();
+for(5:1)
+go_right();
+go_down();
+if(index_up()<14)
+put_flag();
+go_up();
+
+///////////////////////////////////////////////////
+pvz 2
+
+if(colliding_left())
+go_right();
+for(3:1)
+go_down();
+go_right();
+while(!colliding_down())
+
+go_down();
+put_flag_left();
+go_left();
+
+////////////////////////////////////////////////////
+pvz 3
+
+while(!colliding_down())
+
+go_down();
+if(index_down()>0)
+put_empty();
+while(!colliding_down())
+
+go_down();
+put_flag_down();
+go_down();
+
+/////////////////////////////////////////////////////
+pvz 4
+
+if(!colliding_right())
+while(!colliding_down())
+
+go_down();
+put_flag_down();
+go_down();

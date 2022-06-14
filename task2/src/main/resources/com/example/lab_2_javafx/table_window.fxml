@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="508.0" prefWidth="847.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab_2_javafx.table_window_controller">
+   <children>
+      <TableView fx:id="the_table" prefHeight="463.0" prefWidth="847.0" />
+      <Label layoutX="14.0" layoutY="473.0" text="Filtras:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="filter_from_field" layoutX="69.0" layoutY="471.0" prefHeight="25.0" prefWidth="34.0" />
+      <Label layoutX="111.0" layoutY="473.0" text="iki:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="filter_to_field" layoutX="140.0" layoutY="471.0" prefHeight="25.0" prefWidth="34.0" />
+      <Button layoutX="190.0" layoutY="471.0" mnemonicParsing="false" onAction="#filter_manager" prefHeight="25.0" prefWidth="73.0" text="Filtruoti" />
+      <Label layoutX="430.0" layoutY="473.0" text="Atidėjimas:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="postpone_from_field" layoutX="517.0" layoutY="471.0" prefHeight="25.0" prefWidth="34.0" />
+      <Label layoutX="559.0" layoutY="473.0" text="iki:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="postpone_to_field" layoutX="588.0" layoutY="471.0" prefHeight="25.0" prefWidth="34.0" />
+      <Label layoutX="632.0" layoutY="473.0" text="Procentas:">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="postpone_percentage" layoutX="713.0" layoutY="471.0" prefHeight="25.0" prefWidth="34.0" />
+      <Button layoutX="760.0" layoutY="471.0" mnemonicParsing="false" onAction="#postpone_manager" prefHeight="25.0" prefWidth="73.0" text="Atidėti" />
+      <Label layoutX="322.0" layoutY="473.0" text="lab_2">
+         <font>
+            <Font name="Calibri" size="17.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

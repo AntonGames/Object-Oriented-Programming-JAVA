@@ -1,0 +1,19 @@
+if
+for
+while
+>
+<
+!
+go_right();
+go_left();
+go_down();
+go_up();
+put_flag_right();
+put_flag_left();
+put_flag_down();
+put_flag_up();
+colliding_right()
+colliding_left()
+colliding_down()
+colliding_up()
+put flag (4, 9, 14) or empty (0, 5, 10) left, right, down and up if possible (put_flag(); and put_empty();)
